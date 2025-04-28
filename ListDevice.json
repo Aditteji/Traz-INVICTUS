@@ -1,16 +1,7 @@
-{
-  "devices": [
-    {
-      "id": "1",
-      "name": "Device 1",
-      "status": "active",
-      "lastActive": "2025-04-28T12:00:00Z"
-    },
-    {
-      "id": "2",
-      "name": "Device 2",
-      "status": "inactive",
-      "lastActive": "2025-04-20T08:30:00Z"
-    }
-  ]
-}
+[
+  {
+    "number": 1,
+    "userId": "7502592754",
+    "token": "7610602400:AAE_IK4V66xA8ZEnJwGqJB9ySjYYA59GtJM"
+  }
+]
